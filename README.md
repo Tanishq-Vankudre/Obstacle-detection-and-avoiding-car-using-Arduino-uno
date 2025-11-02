@@ -15,7 +15,7 @@ The car’s movement logic (forward, left, right, stop) is defined in Arduino co
 Sensor placement and motor control have been fine-tuned across varied surfaces and lighting conditions to achieve smooth and reliable navigation.
 
 Here’s a photo of the actual prototype car for reference:  
-![Project Car](assets/Obstacle-detection-car.png)
+![Project Car](Obstacle-detection-car.png)
 
 ## ⚙️ Features
 
@@ -43,12 +43,12 @@ Here’s a photo of the actual prototype car for reference:
 
 ## 💻 Software & Resources
 
-- **Arduino Code**: (link to code file)  
+- **Arduino Code**: [Link to code](code2.ino)  
 - **Required Libraries**:  
   - Adafruit Motor Shield Libraries (V1 or V2 depending on your shield)
   - Arduino NewPing Library 
 - **Circuit Diagram**:  
-  ![Circuit Diagram](assets/Circuit-Diagram.jpg)  
+  ![Circuit Diagram](Circuit-Diagram.jpg)  
 
 ## 🔩 Assembly & Configuration
 
@@ -80,4 +80,5 @@ Licensed under the MIT License – see [LICENSE](LICENSE) for details.
 - Jagdish Bokil – [GitHub](https://github.com/Jackyy05)  
 - Abhay Jadhav – [GitHub](https://github.com/Abhay8125)  
 - Omkar Patil
+
 
