@@ -4,17 +4,14 @@
 [![Platform: Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)  
 [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-brightgreen.svg)](https://www.arduino.cc/)
 
-A working prototype of a **self-navigating robotic car** that detects obstacles in its path and automatically adjusts movement based on programmed logic.  
-Built using Arduino Uno, ultrasonic sensor, motor driver shield — designed for modular behaviour customisation and robust performance in varied environments.
+A working prototype of a **self-navigating robotic car** that detects obstacles in its path and automatically adjusts movement based on programmed logic. Built using Arduino Uno, ultrasonic sensor, motor driver shield — designed for modular behaviour customisation and robust performance in varied environments.
 
 ## 🧠 Overview
 
-This project demonstrates how to build an **autonomous obstacle-avoidance vehicle** using the Arduino platform.  
-It uses ultrasonic distance sensing to detect nearby objects, and dynamically alters direction to avoid collisions.  
-The car’s movement logic (forward, left, right, stop) is defined in Arduino code and can be customised.  
-Sensor placement and motor control have been fine-tuned across varied surfaces and lighting conditions to achieve smooth and reliable navigation.
+This project demonstrates how to build an **autonomous obstacle-avoidance vehicle** using the Arduino platform. It uses ultrasonic distance sensing to detect nearby objects, and dynamically alters direction to avoid collisions. The car’s movement logic (forward, left, right, stop) is defined in Arduino code and can be customised. Sensor placement and motor control have been fine-tuned across varied surfaces and lighting conditions to achieve smooth and reliable navigation.
 
-Here’s a photo of the actual prototype car for reference:  
+## 🛞 Project Photo
+ 
 ![Project Car](Obstacle-detection-car.png)
 
 ## ⚙️ Features
@@ -80,5 +77,6 @@ Licensed under the MIT License – see [LICENSE](LICENSE) for details.
 - Jagdish Bokil – [GitHub](https://github.com/Jackyy05)  
 - Abhay Jadhav – [GitHub](https://github.com/Abhay8125)  
 - Omkar Patil
+
 
 
